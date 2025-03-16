@@ -17,13 +17,13 @@ Run the following commands one by one:
 • For update your Terminal 
 ```
 apt update 
-apt upgrade -y 
+apt upgrade -y
+pkg install git
 ```
 
 
 
 ```bash
-pkg install git
 git clone https://github.com/mrdavid404/Termux-Desktops
 chmod +x termux-x11
 ./termux-x11
