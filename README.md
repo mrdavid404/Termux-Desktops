@@ -16,8 +16,10 @@ Run the following commands one by one:
 
 • For update your Terminal 
 ```
-apt update 
+apt update
+
 apt upgrade -y
+
 pkg install git
 ```
 
@@ -25,5 +27,9 @@ pkg install git
 
 ```bash
 git clone https://github.com/mrdavid404/Termux-Desktops
+
+cd Termux-Desktops
+
 chmod +x termux-x11
+
 ./termux-x11
