@@ -30,6 +30,6 @@ git clone https://github.com/mrdavid404/Termux-Desktops
 
 cd Termux-Desktops
 
-chmod +x termux-x11
+chmod +x x11.sh
 
-./termux-x11
+./x11.sh
